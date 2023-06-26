@@ -2,6 +2,8 @@
 
 Welcome to the COVID-19 Data Analysis Project on my GitHub repository! As a data expert with expertise in SQL and Microsoft SQL Server, I am excited to share this project with you, where I dive deep into the vast world of COVID-19 data to uncover valuable insights.
 
+If you are unfamiliar with the GitHub website click [here](https://github.com/Dave-314/Covid-19-data-SQL-scripts/blob/main/Covid%20data%20SQL%20script.sql) to view the SQL scripts
+
 ## Project Overview
 The COVID-19 pandemic has had a profound impact on our lives, and understanding the data behind it is crucial for making informed decisions and combating the spread of the virus. In this project, I leverage my SQL skills and Microsoft SQL Server to analyze various aspects of the COVID-19 pandemic using publicly available data sources.
 
